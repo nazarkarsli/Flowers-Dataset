@@ -1,5 +1,5 @@
 # 🌸 Flower Classification with CNN - used PyTroch
-Bu projede, farklı çiçek türlerini sınıflandırmak için sıfırdan tasarlanmış bir Convolutional Neural Network (CNN) modeli kullandım. Transfer learning kullanılmamıştır, yani önceden eğitilmiş bir model değil, tamamen kendi oluşturduğum bir mimari ile modeli sıfırdan eğittim. dataset
+Bu projede, farklı çiçek türlerini sınıflandırmak için sıfırdan tasarlanmış bir Convolutional Neural Network (CNN) modeli kullandım. Transfer learning kullanılmamıştır, yani önceden eğitilmiş bir model değil, tamamen kendi oluşturduğum bir mimari ile modeli sıfırdan eğittim. 
 Kullanılan veri seti, çiçek görüntülerinden oluşmaktadır ve yaygın olarak kullanılan Flowers102 veri setinden doğrudan çekilmemiştir.Amaç, derin öğrenme mimarisini sıfırdan kurarak modelin performansını gözlemlemek ve farklı sınıfları ayırt etme yeteneğini değerlendirmektir.
 --
 In this project, I used a custom-designed Convolutional Neural Network (CNN) model to classify different flower species. Transfer learning was not used — instead of using a pre-trained model, I built and trained the network architecture from scratch.
